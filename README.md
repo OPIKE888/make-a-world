@@ -1,2 +1,2 @@
 # make-a-world
-a mini game of chinese history
+a mini game of Chinese history
